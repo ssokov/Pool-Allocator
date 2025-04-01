@@ -3,11 +3,11 @@
 STL-compatible memory pool allocator
 
 **Key Features**  
-- 📦 O(1) allocations/deallocations  
-- 🧩 STL-compatible
-- 🚀 Single-header implementation (`#pragma once`)  
-- 🔧 Customizable block size via template  
-- 🚧 *Coming soon: Multithreading support, benchmarks, Google Tests*
+-  O(1) allocations/deallocations  
+-  STL-compatible
+-  Single-header implementation (`#pragma once`)  
+-  Customizable block size via template  
+-  *Coming soon: Multithreading support, benchmarks, Google Tests*
 
 ## Usage
 
